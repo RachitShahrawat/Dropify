@@ -95,7 +95,7 @@
   { "blankLine": "always", "prev": "multiline-expression", "next": "*" },
   { "blankLine": "always", "prev": "directive", "next": "*" },
   { "blankLine": "always", "prev": "block-like", "next": "*" },
-  { "blankLine": "always", "prev": "*", "next": "function" },
+  { "blankLine": "always", "prev": "*", "next": "function-declaration" },
   { "blankLine": "always", "prev": "*", "next": "block-like" },
   { "blankLine": "always", "prev": "import", "next": "*" },
   { "blankLine": "any", "prev": "import", "next": "import" },
